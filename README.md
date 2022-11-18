@@ -4,7 +4,7 @@
 
 ## Description
 
-Workout Track is an app that lets users track their workouts.
+Workout Tracker is an app that lets users track their workouts. Users can build exercises, make them a part of a routine and then organize these exercises and routines for future reference or as a guideline. The app mainly uses react and graphql but also relies on bcrypt, express, jwt and material ui.
 
 ## Table of Contents
 
