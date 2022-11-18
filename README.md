@@ -32,5 +32,5 @@ This project was built as a group with Zachary Guse-Humphrey, Joseph Rebne, Jake
 
 ## Questions
 
-Questions about this repository should be directed to [zwhumphrey@gmail.com](mailto:zwhumphrey@gmail.com). View more of my work at [zwhumphrey](https://github.com/zwhumphrey)
+Questions about this repository should be directed to [taylor.strubhar@gmail.com](mailto:taylor.strubhar@gmail.com). View more of my work at [TaylorStrubhar](https://github.com/TaylorStrubhar)
 
